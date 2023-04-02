@@ -21,6 +21,13 @@ DROP DATABASE BD_2023_01;
 
 CREATE DATABASE BD_2023_01;
 
+<<<<<<< HEAD
 CREATE SEM CONFLITO CONFLITO;
 
 LINHA EXTRA;
+=======
+CREATE SEM CONFLITO;
+
+
+vitor de sa e um aluno ;
+>>>>>>> branch__vitor
